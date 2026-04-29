@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xcodeproj SYSTEM "file://localhost/System/Library/DTXcode/Plug-ins/Xcode3Core.ideplugin/Contents/Resources/Project.xcprojectd">
+<xcodeproj>
+    <objectVersion>46</objectVersion>
+    <objects>
+        <object>
+            <isa>PBXProject</isa>
+            <attributes>
+                <LastUpgradeVersion>1200</LastUpgradeVersion>
+                <ORGANIZATIONNAME>YourOrganizationName</ORGANIZATIONNAME>
+            </attributes>
+            <children>
+                <object>
+                    <isa>PBXGroup</isa>
+                    <name>my-ios-app</name>
+                    <children>
+                        <object>
+                            <isa>PBXFileReference</isa>
+                            <name>AppDelegate.swift</name>
+                            <path>my-ios-app/AppDelegate.swift</path>
+                        </object>
+                        <object>
+                            <isa>PBXFileReference</isa>
+                            <name>SceneDelegate.swift</name>
+                            <path>my-ios-app/SceneDelegate.swift</path>
+                        </object>
+                        <object>
+                            <isa>PBXFileReference</isa>
+                            <name>ViewController.swift</name>
+                            <path>my-ios-app/ViewController.swift</path>
+                        </object>
+                        <object>
+                            <isa>PBXFileReference</isa>
+                            <name>Assets.xcassets</name>
+                            <path>my-ios-app/Assets.xcassets</path>
+                        </object>
+                        <object>
+                            <isa>PBXFileReference</isa>
+                            <name>Info.plist</name>
+                            <path>my-ios-app/Info.plist</path>
+                        </object>
+                        <object>
+                            <isa>PBXFileReference</isa>
+                            <name>LaunchScreen.storyboard</name>
+                            <path>my-ios-app/LaunchScreen.storyboard</path>
+                        </object>
+                    </children>
+                </object>
+            </children>
+        </object>
+    </objects>
+</xcodeproj>
